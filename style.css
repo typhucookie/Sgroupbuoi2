@@ -1,0 +1,32 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: rgb(248, 191, 191);
+    border: solid 5px red;
+}
+
+img {
+    width: 70%;
+    height: 192px;
+    margin: 50px 0;
+    border: groove 5px orange;
+}
+
+.box1 {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    overflow: auto;
+    border: dashed 5px orange;
+}
+
+p {
+    font-size: 1.2em;
+}
